@@ -1,0 +1,11 @@
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\bin\Debug\Text Encryption Project.exe.config
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\bin\Debug\Text Encryption Project.exe
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\bin\Debug\Text Encryption Project.pdb
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.csproj.AssemblyReference.cache
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text_Encryption_Project.Form1.resources
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text_Encryption_Project.Properties.Resources.resources
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.csproj.GenerateResource.cache
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.csproj.CoreCompileInputs.cache
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.exe
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.pdb
+C:\Users\starp\OneDrive\Documents\Coding\Text Encryption Project\obj\Debug\Text Encryption Project.exe.config
